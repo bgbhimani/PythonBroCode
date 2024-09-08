@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c4c487f-f8ef-45b0-a3f6-c45992567e0f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2c4c487f-f8ef-45b0-a3f6-c45992567e0f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,19 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2_variable.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3_multipleAssign.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4_StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.code2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2_variable.executor": "Run",
+    "Python.3_multipleAssign.executor": "Debug",
+    "Python.4_StringMethods.executor": "Run",
+    "Python.4_User_Input.executor": "Run",
+    "Python.code2.executor": "Debug",
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
   }
-}</component>
-  <component name="RunManager" selected="Python.4_StringMethods">
+}]]></component>
+  <component name="RunManager">
     <configuration name="1_intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -134,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_variable" />
         <item itemvalue="Python.4_StringMethods" />
         <item itemvalue="Python.3_multipleAssign" />
-        <item itemvalue="Python.2_variable" />
         <item itemvalue="Python.1_intro" />
       </list>
     </recent_temporary>

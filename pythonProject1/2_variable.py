@@ -1,23 +1,27 @@
 # Variable = a container for a value. Behaves as the values that it contains
 
+#Strings
 first_name = "Bhavik"
-last_name = "Bhimani"
-full_name = first_name + " " + last_name
-print(type(full_name))       # <class 'str'>
-print("Hello, " + full_name) # Bhavik
+food = "Pizza"
+email = "BGB@ fake.com"
+# print(f"Hello {first_name}")
+# print(f"I like: {food}")
+# print(f"your Mail {email}")
 
+#Integer
+age = 25
+Quantity = 3
+# print(f"You Are {age} years old")
+# print(f"You Are buying {Quantity} items")
 
-age = 18
-age = age +1
-print("your age is:",age)
-print(type(age))    #<class 'int'>
+# Floats
+price = 10.99
+distance = 5.5
+# print(f"The Price is ${price}")
+# print(f"You Run {distance} kms")
 
-
-height = 250.5
-print("Your Height is " + str(height) + "cm")
-print(type(height)) #<class 'float'>
-
-
-human = True
-print("Are yout= Human: " + str(human))
-print(type(human))  #<class 'bool'>
+# Booleans
+is_student = True  # T is capital
+is_teacher = False # F is capital
+print(f"Are You A Student? {is_student}")
+print(f"Are You A Teacher? {is_teacher}")
