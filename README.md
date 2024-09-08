@@ -6,20 +6,20 @@ https://www.youtube.com/watch?v=XKHEtdqhLK8
 
 <h1>Road Map</h1>
 
-00:00:00 python tutorial for beginners 🐍
-00:05:49 variables ❎
-00:16:05 type casting 💱
-00:21:15 user input ⌨️
-00:32:42 ⭐ madlibs game 📖
-00:37:55 arithmetic & math 📐
-00:51:46 if statements 🤔
-01:00:06 ⭐ calculator program 🧮
-01:05:59 ⭐ weight conversion program 🏋️
-01:09:59 ⭐ temperature conversion program 🌡️
-01:13:58 logical operators 🌦️
-01:21:28 conditional expressions ❓
-01:27:03 string methods 〰️
-01:39:08 string indexing ✂️
+1 .00:00:00 python tutorial for beginners 🐍
+2 .00:05:49 variables ❎
+3 .00:16:05 type casting 💱
+4 .00:21:15 user input ⌨️
+5 .00:32:42 ⭐ madlibs game 📖
+6 .00:37:55 arithmetic & math 📐
+7 .00:51:46 if statements 🤔
+8 .01:00:06 ⭐ calculator program 🧮
+9 .01:05:59 ⭐ weight conversion program 🏋️
+10.01:09:59 ⭐ temperature conversion program 🌡️
+11.01:13:58 logical operators 🌦️
+12.01:21:28 conditional expressions ❓
+13.01:27:03 string methods 〰️
+14.01:39:08 string indexing ✂️
 
 
 01:46:35 format specifiers 💬
