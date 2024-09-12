@@ -4,7 +4,7 @@ username = input("Enter Your Username: ")
 if len(username) < 12 and username.find(" ") and username.isalpha():
     print(f"You're In. {username}")
 elif len(username)>12:
-    print("Length must < 12")1  1
+    print("Length must < 12")
     print("No space allowed")
 elif not username.isalpha():
     print("No digit allowed")

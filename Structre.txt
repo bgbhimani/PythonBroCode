@@ -1,0 +1,92 @@
+
+00:00:00 python tutorial for beginners 🐍
+00:05:49 variables ❎
+00:16:05 type casting 💱
+00:21:15 user input ⌨️
+00:32:42 ⭐ madlibs game 📖
+00:37:55 arithmetic & math 📐
+00:51:46 if statements 🤔
+01:00:06 ⭐ calculator program 🧮
+01:05:59 ⭐ weight conversion program 🏋️
+01:09:59 ⭐ temperature conversion program 🌡️
+01:13:58 logical operators 🌦️
+01:21:28 conditional expressions ❓
+01:27:03 string methods 〰️
+01:39:08 string indexing ✂️
+
+
+01:46:35 format specifiers 💬
+01:51:55 while loops ♾️
+01:58:53 ⭐ compound interest calculator 💵
+02:06:28 for loops 🔁
+02:11:33 ⭐ countdown timer program ⌛
+02:17:28 nested loops ➿
+02:23:03 lists, sets, and tuples 🍎
+02:38:08 ⭐ shopping cart program 🛒
+02:45:21 2D collections ⬜
+02:53:59 ⭐ quiz game 💯
+
+
+03:03:27 dictionaries 📙
+03:11:33 ⭐ concession stand program 🍿
+03:19:42 random numbers 🎲
+03:24:16 ⭐ number guessing game 🔢
+03:32:37 ⭐ rock, paper, scissors game 🗿
+03:42:06 ⭐ dice roller program ⚂
+03:52:12 functions 📞
+04:02:50 default arguments 👍
+04:08:56 keyword arguments 🗝️
+04:15:40 *args & **kwargs 📦
+
+
+04:30:33 iterables 🔂
+04:37:04 membership operators 🔎
+04:45:56 list comprehensions 📃
+04:56:17 match-case statements 📆
+05:02:13 modules 📨
+05:08:51 scope resolution 🔬
+05:14:22 if name == 'main': 📥
+05:23:34 ⭐ banking program 💰
+05:38:34 ⭐ slot machine 🎰
+05:58:45 ⭐ encryption program 🔐
+
+
+06:07:26 ⭐ hangman game 🕺
+06:32:32 python object oriented programming 🚗
+06:44:50 class variables 🎓
+06:53:06 inheritance 👨‍👦‍👦
+07:00:02 multiple inheritance 🐟
+07:08:04 super() 🔴
+07:21:10 polymorphism 🎭
+07:29:15 duck typing 🦆
+
+
+07:33:34 static methods ⚡
+07:39:31 class methods 🏫
+07:46:16 magic methods 🌟
+07:59:51 @property ⚙️
+08:07:33 decorators 🎊
+08:14:57 exception handling 🚦
+08:20:46 file detection 🕵️‍♂️
+08:27:47 writing files ✍
+08:41:33 reading files 🔍
+08:48:29 dates & times 📅
+08:54:46 ⭐ alarm clock ⏰
+
+
+09:05:03 multithreading 🧵
+09:13:45 request API data ↩️
+09:22:19 PyQt5 GUI intro 🖥️
+09:31:27 PyQt5 labels 🏷️
+09:40:23 PyQt5 images 📷
+09:46:28 PyQt5 layout managers 🧲
+09:53:07 PyQt5 buttons 🛎️
+
+
+10:00:12 PyQt5 checkboxes ✅
+10:06:42 PyQt5 radio buttons 🔘
+10:15:55 PyQt5 line edits 💬
+10:21:55 PyQt5 CSS styles 🎨
+10:32:48 ⭐ digital clock program 🕒
+10:48:38 ⭐ stopwatch program ⏱
+11:06:05 ⭐ weather API app ☀️
