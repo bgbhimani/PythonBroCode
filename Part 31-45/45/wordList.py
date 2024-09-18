@@ -1,0 +1,1 @@
+words = ("tiger", "elephant", "lion", "leopard", "rhinoceros", "pangolin", "cobra", "gaur", "dhole", "wolf", "crocodile", "peafowl", "jackal", "python", "chital", "sambar", "blackbuck", "gharial", "tahr", "boar")
