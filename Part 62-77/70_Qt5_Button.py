@@ -15,7 +15,6 @@ class MainWindow(QMainWindow):
         self.button.setGeometry(150,200,200,100)  
         self.button.setStyleSheet("font-size: 35px;"
                              "color: red;"
-                             "backgronud-color:white;"
                              "font-weight: bold")
         self.button.clicked.connect(self.on_click)
         self.label.setGeometry(150,300,400,100)
