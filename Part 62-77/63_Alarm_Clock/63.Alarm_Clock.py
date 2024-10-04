@@ -4,13 +4,14 @@ import pygame   # for sound
 
 def set_alarm(alarm_time):
     print(f"alarm set for {alarm_time}")
-    sound_file = "alarm_clock_.mp3"
+    sound_file = "alarm_clock_sound.mp3"
     
     is_running = True
     while is_running:
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
         print(current_time)
         
+      
         if current_time == alarm_time:
             print(":::::Wake Up:::::")
             
