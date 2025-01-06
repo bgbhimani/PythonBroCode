@@ -1,8 +1,127 @@
-<h1> Learning  The Python Basics</h1>
-<h2>from the youtube channel Brocode</h2>
+# Learning  The Python Basics
+## From the youtube channel Brocode
 
-https://www.youtube.com/watch?v=XKHEtdqhLK8
+[Youtube Playlist](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 
+## Files Structer:
+
+```
+Directory structure:
+└── bgbhimani-PythonBroCode/
+    ├── README.md
+    ├── Structre.txt
+    ├── Part 1-15/
+    │   ├── 10_tempconvert.py
+    │   ├── 11_logicaloperator.py
+    │   ├── 12_conditionalExp.py
+    │   ├── 13.1_nameValidation.py
+    │   ├── 13_StringMethod.py
+    │   ├── 14_StringIndex.py
+    │   ├── 15_formateSpecifiers.py
+    │   ├── 1_intro.py
+    │   ├── 2_variable.py
+    │   ├── 3_TypeCasting.py
+    │   ├── 4.1_Practice1.py
+    │   ├── 4_User_Input.py
+    │   ├── 5_Madlibs Game.py
+    │   ├── 6.2_Maths.py
+    │   ├── 6_ArithAndMath.py
+    │   ├── 7_ifelse.py
+    │   ├── 8_calculator.py
+    │   └── 9_weightConverter.py
+    ├── Part 16-30/
+    │   ├── 16_whileLoop.py
+    │   ├── 17_interest.py
+    │   ├── 18_forLoop.py
+    │   ├── 19_CountDownTimer.py
+    │   ├── 20_nestedLoop.py
+    │   ├── 21_collectiond.py
+    │   ├── 22_ShoppingCart.py
+    │   ├── 23_2dCollections.py
+    │   ├── 24_QuizGame.py
+    │   ├── 25_dictionary.py
+    │   ├── 26_Concession.py
+    │   ├── 27_RandomNum.py
+    │   ├── 28_NumberGuess.py
+    │   ├── 29_RockPaperScessor.py
+    │   └── 30_DiceRoller.py
+    ├── Part 31-45/
+    │   ├── 31.1_returnFun.py
+    │   ├── 31_function.py
+    │   ├── 32_ defaultArgs.py
+    │   ├── 33_KeywordArg.py
+    │   ├── 34_ArbitryArg.py
+    │   ├── 35_Iterables.py
+    │   ├── 36_membership_Operators.py
+    │   ├── 37_List_Comprehensions.py
+    │   ├── 38_MatchCase_Statements.py
+    │   ├── 39_module.py
+    │   ├── 40_scope_Resolution.py
+    │   ├── 42_BankProgramm.py
+    │   ├── 43_slotMachine.py
+    │   ├── 44_encryptProgramm.py
+    │   ├── example.py
+    │   ├── 41/
+    │   │   ├── 41_if_name==main.py
+    │   │   ├── script1.py
+    │   │   ├── script2.py
+    │   │   └── __pycache__/
+    │   └── 45/
+    │       ├── 45_hangman.py
+    │       ├── wordList.py
+    │       └── __pycache__/
+    ├── Part 46-61/
+    │   ├── 47_class_variables.py
+    │   ├── 48_inheritance.py
+    │   ├── 49_multipleInheritance.py
+    │   ├── 50_superClass.py
+    │   ├── 51_polymorphisem.py
+    │   ├── 52_duck_typing.py
+    │   ├── 53_static_methods.py
+    │   ├── 54_class_methods.py
+    │   ├── 55_Magic_methods.py
+    │   ├── 56_property.py
+    │   ├── 57_Decorator.py
+    │   ├── 58_Exception_Handling.py
+    │   ├── 46 OOPS/
+    │   │   ├── 46_oops.py
+    │   │   ├── car.py
+    │   │   └── __pycache__/
+    │   ├── 59 File dection/
+    │   │   ├── 59_file_dection.py
+    │   │   └── stuff/
+    │   │       └── test.txt
+    │   ├── 60_file_Writing/
+    │   │   ├── 60_writing_files.py
+    │   │   ├── output.csv
+    │   │   ├── output.json
+    │   │   └── output.txt
+    │   └── 61_file_reading/
+    │       ├── 61_reading_files.py
+    │       ├── input.csv
+    │       ├── input.json
+    │       └── input.txt
+    └── Part 62-77/
+        ├── 62.Dates_and_Time.py
+        ├── 64_Multi_Threding.py
+        ├── 65_req_API_data.py
+        ├── 66_Qt5_intro.py
+        ├── 67_Qt5_Lables.py
+        ├── 68_Qt5_images.py
+        ├── 69_Qt5_Layouts.py
+        ├── 70_Qt5_Button.py
+        ├── 71_Qt5_checkbox.py
+        ├── 72_Qt5_RadioButton.py
+        ├── 73_Qt5_LineEdits.py
+        ├── 74_Qt5_CSS.py
+        ├── 75_Pro1_Digital_clock.py
+        ├── 63_Alarm_Clock/
+        │   └── 63.Alarm_Clock.py
+        └── Pro1_Digital_Clock/
+            ├── 75_Pro1_Digital_clock.py
+            ├── AppleIiScreenTypeface.ttf
+            └── Oxanium.ttf
+```
 
 <h1>Road Map</h1>
 

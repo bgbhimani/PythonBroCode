@@ -26,6 +26,7 @@ class DigitalClock(QWidget):
         self.setStyleSheet("background: #021526;")
         
         
+        # font_id = QFontDatabase.addApplicationFont("E1234.ttf")
         font_id = QFontDatabase.addApplicationFont("AppleIiScreenTypeface.ttf")
         # font_id = QFontDatabase.addApplicationFont("Oxanium.ttf")
         font_family = QFontDatabase.applicationFontFamilies(font_id)[0]
